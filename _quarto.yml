@@ -39,12 +39,12 @@ website:
             href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+#      - text: Outreach
+#        menu:        
+#        - text: Presentations
+#          href: posts.qmd#category=presentation                   
+#      - text: Group   # Comment the Group part out to remove the Group page
+#        href: people.qmd
 
     right: 
       - text: CV
@@ -55,31 +55,31 @@ website:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
         target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+#      - icon: rss
+#        href: posts.xml
+#        target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Darius Ada &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+#      - icon: github
+#        href: https://github.com/drganghe/quarto-academic-website-template
+#        target: _blank
+#      - text: "{{< fa brands bluesky >}}" 
+#        href: https://bsky.app
+#        target: _blank
+#      - icon: rss
+#        href: posts.xml
+#        target: _blank  
   
   search:
     location: navbar
     type: textbox
   
-  reader-mode: true
+#  reader-mode: true
 
   draft-mode: unlinked
   
@@ -114,4 +114,3 @@ format:
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-
