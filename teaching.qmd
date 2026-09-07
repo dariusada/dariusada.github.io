@@ -15,7 +15,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-Applied Data Analysis (exercise)  <!--[Applied Data Analysis](LINK-SYLLABUS) , &nbsp; [Fall 2023](https://www.google.com) -->
+Applied Data Analysis (co-instructor)  <!--[Applied Data Analysis](LINK-SYLLABUS) , &nbsp; [Fall 2023](https://www.google.com) -->
 
 <i>Supervising four theses (BA-level)</i>
 
