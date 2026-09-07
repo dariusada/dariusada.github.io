@@ -1,11 +1,10 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
 title-block-banner: false
 ---
 
 
-## Class 1
+## Fall 2026
 
 ::: {.grid}
 
@@ -16,11 +15,13 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+Applied Data Analysis (exercise)  <!--[Applied Data Analysis](LINK-SYLLABUS) , &nbsp; [Fall 2023](https://www.google.com) -->
 
-Class 1 introduction.
+<i>Supervising four theses (BA-level)</i>
 
 :::
+
+<!--
 
 :::
 
@@ -61,6 +62,8 @@ Class 2 introduction.
 Class 3 introduction. 
 
 :::
+
+-->
 
 :::
 

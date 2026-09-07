@@ -2,7 +2,7 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "What’s New & Updated",
+    "title": "Blog",
     "section": "",
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
@@ -11,14 +11,28 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Notes: * corresponding author"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "Working Papers",
+    "text": "Working Papers"
+  },
+  {
+    "objectID": "publications.html#journal-publications",
+    "href": "publications.html#journal-publications",
+    "title": "Publications",
+    "section": "Journal Publications",
+    "text": "Journal Publications"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters"
   },
   {
     "objectID": "projects.html",
@@ -60,28 +74,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Applied Data Analysis (exercise) \nSupervising four theses (BA-level)"
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
+    "objectID": "teaching.html#fall-2026",
+    "href": "teaching.html#fall-2026",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "text": "Applied Data Analysis (exercise) \nSupervising four theses (BA-level)"
   },
   {
     "objectID": "pub-listing.html",
@@ -116,7 +116,7 @@
     "href": "index.html",
     "title": "Darius Ada",
     "section": "",
-    "text": "Uprofile\n  \n  \n    \n     E-mail\n  \n  \n      ORCID\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions."
+    "text": "Uprofile\n  \n  \n    \n     E-mail\n  \n  \n      ORCID\n  \n\n  \n  \nHi!\nI’m a research associate at the Department of Sociology, LMU Munich, where I’m preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge."
   },
   {
     "objectID": "people.html",

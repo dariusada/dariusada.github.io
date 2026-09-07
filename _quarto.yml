@@ -29,8 +29,8 @@ website:
       - text: Teaching
         href: teaching.qmd
 
-      - text: Blog
-        href: posts.qmd
+      #- text: Blog
+      #  href: posts.qmd
 
 
     right:

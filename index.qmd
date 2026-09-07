@@ -1,7 +1,7 @@
 ---
 title: "Darius Ada"
 description-meta: "Darius Ada Website"
-image: "files/images/placeholder4.JPG"
+image: "files/images/lmu.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -66,14 +66,9 @@ about:
 ---
 
 :::{#hero-heading}
+Hi!
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
-
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
-
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+I'm a research associate at the Department of Sociology, LMU Munich, where I'm preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge.
 
 <!--## Experience
 
@@ -84,8 +79,8 @@ Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/qua
 ## Education
 
 - PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- Master in Sociology, LMU Munich
+- Bachelor in Business Administraion, Munich University of Applied Sciences
 -->
 
 :::
