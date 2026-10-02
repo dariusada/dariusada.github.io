@@ -68,7 +68,7 @@ about:
 :::{#hero-heading}
 Hi!
 
-I'm a research associate at the Department of Sociology, LMU Munich, where I'm preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge.
+I'm a Research Associate at the Department of Sociology, LMU Munich, where I'm preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge.
 
 <!--## Experience
 
