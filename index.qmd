@@ -18,7 +18,7 @@ about:
 #      target: _blank
     - icon: globe
       text: Uprofile
-      href: https://www.soziologie.lmu.de/de/
+      href: https://www.soziologie.lmu.de/en/our-department/faculty-and-staff/contact-page/darius-ada-406a787c.html
       target: _blank
     - icon: envelope
       text: E-mail
