@@ -17,12 +17,12 @@ about:
 #      href: https://www.github.com
 #      target: _blank
     - icon: globe
-      text: Uprofile
+      text: Institution
       href: https://www.soziologie.lmu.de/en/our-department/faculty-and-staff/contact-page/darius-ada-406a787c.html
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:darius.ada@soziologie.lmu.de    
+      href: mailto:d.ada@lmu.de    
 #    - icon: linkedin
 #      text: LinkedIn
 #      href: https://linkedin.com
@@ -47,12 +47,12 @@ about:
 #      href: https://www.researchgate.net
 #      target: _blank
 
-# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
 #  - id: recent-posts
-#    contents: 
+#    contents:
 #      - posts
 #      - posts/post-links.yml
-#   exclude:
+#    exclude:
 #      title: ""
 #    type: grid
 #    max-items: 3
@@ -60,37 +60,23 @@ about:
 #    page-size: 3 #set same as max-times to remove the page number setting
 #    fields: [image, date, title, subtitle]
 #    max-description-length: 75
-#    sort: 
+#    sort:
 #      - "date desc"
 #      - "title asc"
 ---
 
 :::{#hero-heading}
-Hi!
+Hi,
 
-I'm a Research Associate at the Department of Sociology, LMU Munich, where I'm preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge.
-
-<!--## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master in Sociology, LMU Munich
-- Bachelor in Business Administraion, Munich University of Applied Sciences
--->
+I'm a PhD student in Sociology at the Department of Sociology, LMU Munich. My research focuses on property relations and wealth inequality, which I study using quantitative and computational methods. Currently, I focus on the ownership of knowledge and data in the context of wealth inequality.
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts
 ## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-:::{#recent-posts}
+:::{##recent-posts}
 :::
 
 <p align="right">[All Posts »](/posts.qmd)</p> -->

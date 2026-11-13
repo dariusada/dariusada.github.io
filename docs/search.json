@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nblog\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -18,7 +18,7 @@
     "href": "publications.html#working-papers",
     "title": "Publications",
     "section": "Working Papers",
-    "text": "Working Papers"
+    "text": "Working Papers\nAda, Darius. “Framing Poverty in Everyday Conversations: Insights from Reddit”"
   },
   {
     "objectID": "publications.html#journal-publications",
@@ -74,14 +74,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Applied Data Analysis (co-instructor) \nSupervising four theses (BA-level)"
+    "text": "Applied Data Analysis (Co-Instructor) \nSupervising four theses (BA-level)"
   },
   {
     "objectID": "teaching.html#fall-2026",
     "href": "teaching.html#fall-2026",
     "title": "Teaching",
     "section": "",
-    "text": "Applied Data Analysis (co-instructor) \nSupervising four theses (BA-level)"
+    "text": "Applied Data Analysis (Co-Instructor) \nSupervising four theses (BA-level)"
   },
   {
     "objectID": "pub-listing.html",
@@ -116,7 +116,7 @@
     "href": "index.html",
     "title": "Darius Ada",
     "section": "",
-    "text": "Uprofile\n  \n  \n    \n     E-mail\n  \n  \n      ORCID\n  \n\n  \n  \nHi!\nI’m a Research Associate at the Department of Sociology, LMU Munich, where I’m preparing my doctoral project. My research interests lie in property and wealth inequality, which I study with quantitative and computational methods. My current focus is on intellectual property (IP) and the ownership of knowledge."
+    "text": "Institution\n  \n  \n    \n     E-mail\n  \n  \n      ORCID\n  \n\n  \n  \nHi,\nI’m a PhD student in Sociology at the Department of Sociology, LMU Munich. My research focuses on property relations and wealth inequality, which I study using quantitative and computational methods. Currently, I focus on the ownership of knowledge and data in the context of wealth inequality."
   },
   {
     "objectID": "people.html",
@@ -138,5 +138,33 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Darius Ada",
+    "section": "",
+    "text": "PhD, University\nMaster in Sociology, LMU Munich\nBachelor in Business Administraion, Munich University of Applied Sciences"
+  },
+  {
+    "objectID": "posts/news-title/test.html",
+    "href": "posts/news-title/test.html",
+    "title": "This is a test",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/test.html#summary",
+    "href": "posts/news-title/test.html#summary",
+    "title": "This is a test",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Darius Ada",
+    "section": "Recent Posts",
+    "text": "Recent Posts\n\n\n\n\nAll Posts »"
   }
 ]
