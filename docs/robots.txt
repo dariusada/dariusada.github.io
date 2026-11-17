@@ -1,1 +1,11 @@
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Meta-ExternalAgent
+User-agent: Bytespider
+Disallow: /files/
+
 Sitemap: https://dariusada.github.io/sitemap.xml
